@@ -1,0 +1,291 @@
+Start testing: Dec 21 18:54 EET
+----------------------------------------------------------
+1/18 Testing: test_absolute_pose
+1/18 Test: test_absolute_pose
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_absolute_pose"
+Directory: /home/toxiccclub/opengv/build_arm64/bin
+"test_absolute_pose" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test_absolute_pose" end time: Dec 21 18:54 EET
+"test_absolute_pose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/18 Testing: test_absolute_pose_sac
+2/18 Test: test_absolute_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_absolute_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_absolute_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test_absolute_pose_sac" end time: Dec 21 18:54 EET
+"test_absolute_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/18 Testing: test_noncentral_absolute_pose
+3/18 Test: test_noncentral_absolute_pose
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_noncentral_absolute_pose"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_noncentral_absolute_pose" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_noncentral_absolute_pose" end time: Dec 21 18:54 EET
+"test_noncentral_absolute_pose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/18 Testing: test_noncentral_absolute_pose_sac
+4/18 Test: test_noncentral_absolute_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_noncentral_absolute_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_noncentral_absolute_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_noncentral_absolute_pose_sac" end time: Dec 21 18:54 EET
+"test_noncentral_absolute_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/18 Testing: test_multi_noncentral_absolute_pose_sac
+5/18 Test: test_multi_noncentral_absolute_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_multi_noncentral_absolute_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_multi_noncentral_absolute_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_multi_noncentral_absolute_pose_sac" end time: Dec 21 18:54 EET
+"test_multi_noncentral_absolute_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/18 Testing: test_relative_pose
+6/18 Test: test_relative_pose
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_relative_pose"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_relative_pose" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_relative_pose" end time: Dec 21 18:54 EET
+"test_relative_pose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/18 Testing: test_relative_pose_rotationOnly
+7/18 Test: test_relative_pose_rotationOnly
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_relative_pose_rotationOnly"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_relative_pose_rotationOnly" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_relative_pose_rotationOnly" end time: Dec 21 18:54 EET
+"test_relative_pose_rotationOnly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/18 Testing: test_relative_pose_rotationOnly_sac
+8/18 Test: test_relative_pose_rotationOnly_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_relative_pose_rotationOnly_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_relative_pose_rotationOnly_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_relative_pose_rotationOnly_sac" end time: Dec 21 18:54 EET
+"test_relative_pose_rotationOnly_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/18 Testing: test_relative_pose_sac
+9/18 Test: test_relative_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_relative_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_relative_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_relative_pose_sac" end time: Dec 21 18:54 EET
+"test_relative_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/18 Testing: test_noncentral_relative_pose
+10/18 Test: test_noncentral_relative_pose
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_noncentral_relative_pose"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_noncentral_relative_pose" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_noncentral_relative_pose" end time: Dec 21 18:54 EET
+"test_noncentral_relative_pose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/18 Testing: test_noncentral_relative_pose_sac
+11/18 Test: test_noncentral_relative_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_noncentral_relative_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_noncentral_relative_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_noncentral_relative_pose_sac" end time: Dec 21 18:54 EET
+"test_noncentral_relative_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/18 Testing: test_multi_noncentral_relative_pose_sac
+12/18 Test: test_multi_noncentral_relative_pose_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_multi_noncentral_relative_pose_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_multi_noncentral_relative_pose_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_multi_noncentral_relative_pose_sac" end time: Dec 21 18:54 EET
+"test_multi_noncentral_relative_pose_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/18 Testing: test_eigensolver_sac
+13/18 Test: test_eigensolver_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_eigensolver_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_eigensolver_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test_eigensolver_sac" end time: Dec 21 18:54 EET
+"test_eigensolver_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/18 Testing: test_triangulation
+14/18 Test: test_triangulation
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_triangulation"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_triangulation" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_triangulation" end time: Dec 21 18:54 EET
+"test_triangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/18 Testing: test_eigensolver
+15/18 Test: test_eigensolver
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_eigensolver"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_eigensolver" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_eigensolver" end time: Dec 21 18:54 EET
+"test_eigensolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/18 Testing: test_point_cloud
+16/18 Test: test_point_cloud
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_point_cloud"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_point_cloud" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_point_cloud" end time: Dec 21 18:54 EET
+"test_point_cloud" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/18 Testing: test_point_cloud_sac
+17/18 Test: test_point_cloud_sac
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_point_cloud_sac"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_point_cloud_sac" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_point_cloud_sac" end time: Dec 21 18:54 EET
+"test_point_cloud_sac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/18 Testing: test_Sturm
+18/18 Test: test_Sturm
+Command: "/home/toxiccclub/opengv/build_arm64/bin/test_Sturm"
+Directory: /home/toxiccclub/opengv/build_arm64
+"test_Sturm" start time: Dec 21 18:54 EET
+Output:
+----------------------------------------------------------
+aarch64-binfmt-P: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_Sturm" end time: Dec 21 18:54 EET
+"test_Sturm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 21 18:54 EET

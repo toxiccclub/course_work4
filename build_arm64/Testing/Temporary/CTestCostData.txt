@@ -1,0 +1,37 @@
+test_absolute_pose 0 0
+test_absolute_pose_sac 0 0
+test_noncentral_absolute_pose 0 0
+test_noncentral_absolute_pose_sac 0 0
+test_multi_noncentral_absolute_pose_sac 0 0
+test_relative_pose 0 0
+test_relative_pose_rotationOnly 0 0
+test_relative_pose_rotationOnly_sac 0 0
+test_relative_pose_sac 0 0
+test_noncentral_relative_pose 0 0
+test_noncentral_relative_pose_sac 0 0
+test_multi_noncentral_relative_pose_sac 0 0
+test_eigensolver_sac 0 0
+test_triangulation 0 0
+test_eigensolver 0 0
+test_point_cloud 0 0
+test_point_cloud_sac 0 0
+test_Sturm 0 0
+---
+test_absolute_pose
+test_absolute_pose_sac
+test_noncentral_absolute_pose
+test_noncentral_absolute_pose_sac
+test_multi_noncentral_absolute_pose_sac
+test_relative_pose
+test_relative_pose_rotationOnly
+test_relative_pose_rotationOnly_sac
+test_relative_pose_sac
+test_noncentral_relative_pose
+test_noncentral_relative_pose_sac
+test_multi_noncentral_relative_pose_sac
+test_eigensolver_sac
+test_triangulation
+test_eigensolver
+test_point_cloud
+test_point_cloud_sac
+test_Sturm
